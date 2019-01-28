@@ -1,6 +1,9 @@
 Part.2 Describe a picture
 =====
 
+인물 묘사
+===
+
 | 거리/공원 | 식당/상점/시장 
 | ---- | --- 
 | 건너고 있다 | 주문을 하고 있다 | 전화를 하고 있다 | 마주보고 있다
@@ -28,3 +31,40 @@ Part.2 Describe a picture
 | 탁자에 기대어 있다 | 쉬고 있다
 | 타자를 치고 있다 | 집중하는 것처럼 보인다
 | 의자에 기대어 있다 | 들어가고 있다
+
+장소묘사
+====
+
+| 장소묘사
+|---
+|정리되다
+|놓여지다
+|선반이 가득차다
+|흩어져있다
+|걸려있다
+
+Template
+====
+
+```Markdown
+This picture was taken (at/in/on) ..
+```
+```Markdown
+Let me start from the middle. + ..
+On the left/In front of/Behind
+In the foreground of the picture
+In the backgroud of the picture
+```
+```Markdown
+I can see
+00 can be seen
+There is/are
+```
+```Markdown
+Other than that, there is nothing special
+I can't see that in detail, because the picture is too small
+```
+```Markdown
+Well, everything looks peaceful.
+People look comfortable/ I think it is summer
+```
