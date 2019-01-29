@@ -18,6 +18,20 @@ Part.2 Describe a picture
 | 나무에 기대어 있다 | 봉지를 들고 있다 | 타자를 치고 있다 | 집중하는 것처럼 보인다
 | 유모차를 끌고 있다 | 둘러보고 있다 | 의자에 기대어 있다 | 들어가고 있다
 
+| 거리/공원 | 식당/상점/시장 
+| ---- | --- 
+| crossing a road | taking an order
+| walking along the street | selecting an item
+| taking pictures | pushing a shoppingcart
+| riding bicycles | studying a menu
+| sitting on a bench | standing at the counter
+| walking dogs | selling some fruit
+| talking to each other | drinking a glass of water
+| sitting on the ground | sitting in the sofa
+| lying on the ground | handing a card
+| leaning against the tree | holding a plasticbag
+| pushing a stroller | looking around
+
 | 사무실/도서관/서점 | 기타 동작
 | --- | ---
 | 전화를 하고 있다 | 마주보고 있다
@@ -31,6 +45,20 @@ Part.2 Describe a picture
 | 탁자에 기대어 있다 | 집중하는 것처럼 보인다
 | 타자를 치고 있다 | 들어가고 있다
 | 의자에 기대어 있다 | 거리를 가로지르다
+
+| 사무실/도서관/서점 | 기타 동작
+| --- | ---
+| talking on the phone | facing each other
+| working on a computer | swimming at the beach
+| having a meeting | standing in line
+| reading a document | riding a carriage
+| writing something down | rowing a boat
+| arranging books | playing musical instrument
+| focusing on something | preparing a meal
+| asking questions | taking a rest
+| leaning on the table | seems to be concentrating
+| typing on a keyboard | walking into
+| leaning back on the chair | crossing the road
 
 장소묘사
 ====
