@@ -46,11 +46,11 @@ I quickly learned not to + V  | ~하면안된다는것을빨리배웠습니다.
 
 |경험
 |----
-| I can meet various people and learn about OO. I can learn how to deal with OO. There will be a lot of new opportunities to ~. It is very essential for a young person like me. In fact,everything in the world is worth learning. So I do not hesitate to experience OO.
+| I can meet various people and learn about ~. I can learn how to deal with OO. There will be a lot of new opportunities to ~. It is very essential for a young person. In fact,everything in the world is worth learning. So I do not hesitate to experience OO.
 | 절약
-| I want to save my money. These days, the economy is not so good, so I am very concerned about my economic situation. Because of this, people do not like to spend money on OOO, because it is a waste of money
-| 취업준비생
-| I'm a job seeker. My daily routine is similar everyday. I study everyday.  I am very worried about OO. I know that my stress comes from O, but I have no choice. I will keep on going for O.
+| I want to save my money. After my child was born, my economic situation is not so good. Because of this, I do not like to spend money on OOO, because it is a waste of money to me
+| 회사원 (아빠)
+| I'm a worker and a father of my child. My daily routine is similar everyday. I work at the office placed in Seocho.  I am very worried about my health. I know that my stress comes from working and childcaring, but I have no choice. I will keep on going for my family.
 | 회사
 | The company is busy everyday. A lot of people communicate, work, and carry out projects to make more money. The company is only interested in making profit and has no cares otherwise. The company provides employee welfare to the extent required by the law. The company appoints a strong supervisor to effectively work for its employees.
 | 친구들과 어울리기 ***
